@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Poggers](https://i.kym-cdn.com/entries/icons/original/000/025/908/cover4.jpg)
